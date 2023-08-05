@@ -14,12 +14,15 @@ interactionLab.
 activityLab.
 teachingLab.
 
-it kindof started because of people at the ART. and the sense that the typical way of thinking about theatre skills in the classroom focuses 
-1. on the performance skills of the teacher, and
-2. on the classroom as theatre with a proscenium that frames the performance and separates it pretty radically from the the audience/students.
+It kindof started because of people at the ART. 
+
+And the sense that the typical way of thinking about theatre skills in the classroom focuses 
+1. exlusively on the performance skills of the teacher, and
+2. mainly on the classroom as theatre with a proscenium that frames the performance and separates it pretty radically from the the audience/students.
 
 We started asking two types of questions:
-1. what if we started thinking of much more unconventional modes of theatre, like Diane Paulus's *Sleep No More* (which had just come out as theatreLab launched for the first time)? and
+
+1. what if we started thinking of much more unconventional modes of theatre, like Diane Paulus's immersive *Sleep No More* (which had just come out as theatreLab launched for the first time)? and
 2. what if we limited ourselves not just to thinking about the "act" of teaching as analogous to the work of the actor, but also involved ALL of the elements of theatre, from the research and development of the dramaturge to the craft of the playwright to the composer of the musical score to the director and her gift of guiding an ensemble to the lighting director to the set designers to the stagehands to the workers who stock and staff the giftshop?
 
 So the goals here are big :)
