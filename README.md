@@ -14,7 +14,7 @@ interactionLab.
 activityLab.
 teachingLab.
 
-It kindof started because of people at the ART. 
+It kindof started because of great collaborations between the Bok Center and various folks from the ART. 
 
 And the sense that the typical way of thinking about theatre skills in the classroom focuses 
 1. exlusively on the performance skills of the teacher, and
