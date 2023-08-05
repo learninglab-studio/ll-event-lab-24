@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EventLab 23-24
 
-## Getting Started
+this repo will hold docs, cli tools and serve as the NextJS app for the 23-24 iteration of eventLab.
 
-First, run the development server:
+## roots in theatre
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+the first task will be to explain eventLab. It has had many names over the years. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+theatreLab.
+studioLab.
+performanceLab.
+happeningLab.
+interactionLab.
+activityLab.
+teachingLab.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+it kindof started because of people at the ART. and the sense that the typical way of thinking about theatre skills in the classroom focuses 
+1. on the performance skills of the teacher, and
+2. on the classroom as theatre with a proscenium that frames the performance and separates it pretty radically from the the audience/students.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+We started asking two types of questions:
+1. what if we started thinking of much more unconventional modes of theatre, like Diane Paulus's *Sleep No More* (which had just come out as theatreLab launched for the first time)? and
+2. what if we limited ourselves not just to thinking about the "act" of teaching as analogous to the work of the actor, but also involved ALL of the elements of theatre, from the research and development of the dramaturge to the craft of the playwright to the composer of the musical score to the director and her gift of guiding an ensemble to the lighting director to the set designers to the stagehands to the workers who stock and staff the giftshop?
 
-## Learn More
+So the goals here are big :)
 
-To learn more about Next.js, take a look at the following resources:
+## from theatre to event
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Now we aren't necessarily suggesting that each and every event at the LL needs to "read" as theatre to the visitors. It's more that we want to transform and transfigure the everyday, breathing more life into it by deploying the moves of theatre.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+But as time has passed, the word "theatre" has come to seem a bit limiting. It's still great if people get all of the above, but at times it has made more sense to think of ourselves as "event-designers"--like [these people](https://momentfactory.com/home). We've also developed expertise in technical skills and swag-production that are deployed in an array of live events ranging from rock concerts to weddings to conventions. So moving from the word "theatre" to "event" feels right this year.
 
-## Deploy on Vercel
+In any case..
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+...at the end of the day, we want a core group of people to 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. understand the creative potential of the LL Studio's machinery
+2. be masterful teachers of the things we need to teach
+3. design and facilitate singular experiences for visitors to the learning lab
+
+So like one needs to be a little bit Wizard of Oz with ones abilities to construct and deploy a magical machine
+
+![the wizard of oz](https://media.giphy.com/media/sedjvePAUl1kc/giphy.gif)
+
+But then also a little like Beyonce at the Superbowl
+
+![beyonce at the superbowl](https://media.giphy.com/media/70dTjrArXWbEA/giphy.gif)
+
+In this lab, we're going to design learning experiences that feel like EVENTS. 
+
+...like the Superbowl or New Year's Eve or a Beyonce concert or a Broadway show or your birthday or a wedding or a trip to South Beach  or that time you played Magick the Gathering one last time with your 12th grade friends in the playground behind your middle school at 2am and didn't want it to end.
+
+Not all of learning has to feel like this. We're just one little lab in the LL, and the LL is just one little place helping out teaching.
+
+But in this little lab in the little LL we are going to think as big as we can about what learning can feel like.
