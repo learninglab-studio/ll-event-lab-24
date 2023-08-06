@@ -56,3 +56,9 @@ In this lab, we're going to design learning experiences that feel like EVENTS.
 Not all of learning has to feel like this. We're just one little lab in the LL, and the LL is just one little place helping out teaching.
 
 But in this little lab in the little LL we are going to think as big as we can about what learning can feel like.
+
+## don't forget the interaction
+
+But while we are leaning in to the event-ness of events this year, we don't want to forget that our events are learning events, and the interactive nature of the theatre we put on needs to remain in focus.
+
+...etc
