@@ -59,7 +59,8 @@ But we're just one little lab in the LL, and the LL is just one little place hel
 
 So it doesn't hurt to have this one little lab in the little LL focus on this. On how big events can feel. 
 
-..in this little lab 
+So.
+...in this little lab 
 ...in the little LL 
 ...we are going to think as big as we can about what learning experiences (and lived experiences) can be. 
 
