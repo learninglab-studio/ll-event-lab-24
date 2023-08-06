@@ -41,7 +41,7 @@ In any case..
 2. be masterful teachers of the things we need to teach
 3. design and facilitate singular experiences for visitors to the learning lab
 
-So like one needs to be a little bit Wizard of Oz with ones abilities to construct and deploy a magical machine
+So like one needs to be a little bit Wizard of Oz with one's abilities to construct and deploy a magical machine
 
 ![the wizard of oz](https://media.giphy.com/media/sedjvePAUl1kc/giphy.gif)
 
