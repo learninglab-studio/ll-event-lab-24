@@ -49,26 +49,37 @@ But then also a little like Beyonce at the Superbowl
 
 ![beyonce at the superbowl](https://media.giphy.com/media/70dTjrArXWbEA/giphy.gif)
 
-In this lab, we're going to design learning experiences that feel like EVENTS. 
+In this lab, we're going to design learning experiences that feel like EVENTS.
 
-...like the Superbowl or New Year's Eve or a Beyonce concert or a Broadway show or your birthday or a wedding or a trip to South Beach  or that time you played Magick the Gathering one last time with your 12th grade friends in summer before college, in the playground behind the middle school where you met at 2am and cried together and didn't want it to end.
+...like the (Beyonce) Superbowl
+...or New Year's Eve
+...or a Taylor Swift concert you drove 4hrs for
+...or a Broadway show
+...or your birthday
+...or a wedding
+...or the time the cool barista you kinda liked got your coffee just right and drew a heart on the cup
+...or a trip to Vegas or South Beach
+...or that time you played Magick the Gathering one last time with your 12th grade friends in summer before college, in the playground behind the middle school, where you played past 2am, and cried together, and didn't want it to end.
 
-Not all of learning has to feel like this. Not all of life has to feel like this. 
+Not all of learning has to feel like this. Not all of life has to feel like this.
 
 But we're just one little lab in the LL, and the LL is just one little place helping out teaching.
 
-So it doesn't hurt to have this one little lab in the little LL focus on this. On how big events can feel. 
+So it doesn't hurt to have this one little lab in the little LL focus on this. On how big events can feel.
 
 So.
-...in this little lab 
-...in the little LL 
-...we are going to think as big as we can about what learning experiences (and lived experiences) can be. 
+...in this little lab
+...in the this little LL
+...we are going to think as big as we can about what learning experiences (and lived experiences) can be.
 
-And we won't sit around waiting for them to happen. 
+And we won't sit around waiting for them to happen.
 
-We'll design them. 
+We'll design them.
 
 And then bring it them into the world for our users.
+
+
+
 
 ## don't forget the interaction
 
